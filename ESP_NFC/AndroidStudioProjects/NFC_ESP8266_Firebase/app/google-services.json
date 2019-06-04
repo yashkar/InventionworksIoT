@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "328178699199",
+    "firebase_url": "https://nfc-esp8266.firebaseio.com",
+    "project_id": "nfc-esp8266",
+    "storage_bucket": "nfc-esp8266.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328178699199:android:f4b1500da61577e5",
+        "android_client_info": {
+          "package_name": "com.example.akhilabhat.nfc_esp8266_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328178699199-96e6k2h2lk3pfe7aqek1pt3030p6gv01.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.akhilabhat.nfc_esp8266_firebase",
+            "certificate_hash": "df5885f85495ea540192fc3390ec69e6d1734db7"
+          }
+        },
+        {
+          "client_id": "328178699199-a3gesubbr0g6qbsj8ph4qj50l3d7bcam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFtGy5VOpGa4XDlexH5PFLMAQrxgodJN4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328178699199-a3gesubbr0g6qbsj8ph4qj50l3d7bcam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
